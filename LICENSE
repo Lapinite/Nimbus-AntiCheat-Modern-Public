@@ -1,0 +1,53 @@
+Nimbus AntiCheat Modern Proprietary License
+Version 1.0, 2026
+
+Copyright (c) 2026 Leviathan Project. All rights reserved.
+
+1. Ownership
+
+Nimbus AntiCheat Modern, including its compiled software, private source code, documentation, branding, assets, and related materials, is proprietary software owned by the Leviathan Project or its applicable rights holders. No ownership rights are transferred by this license.
+
+2. Free-use license for official compiled releases
+
+Subject to this license, you are granted a limited, revocable, non-exclusive, non-transferable license to download, install, and use official compiled releases of Nimbus AntiCheat Modern free of charge on Minecraft servers that you own, operate, or administer.
+
+You may make reasonable backup copies solely for your own permitted use.
+
+3. Restrictions
+
+Except where prior written permission has been granted by the Leviathan Project, you may not:
+
+- copy, publish, disclose, or distribute Nimbus source code;
+- mirror, redistribute, republish, sublicense, rent, lease, sell, or commercially distribute compiled releases;
+- modify, rebrand, remove attribution from, or create derivative versions of Nimbus;
+- represent Nimbus or any portion of it as your own work;
+- use Nimbus source code, non-public implementation details, or protected assets to create or materially assist a competing anti-cheat product;
+- remove or alter copyright, trademark, attribution, license, or proprietary notices;
+- circumvent licensing, update, security, integrity, or access-control mechanisms; or
+- reverse engineer, decompile, or disassemble compiled releases, except to the extent that applicable law expressly permits such activity notwithstanding this restriction.
+
+4. Public repository
+
+The public availability of documentation, release metadata, checksums, binaries, or other files in this repository does not make Nimbus open source and does not grant rights beyond those expressly stated in this license.
+
+No source-code license is granted.
+
+5. Third-party software
+
+Nimbus may interact with or depend on third-party software. Third-party components remain subject to their own licenses and terms. This license does not grant rights in third-party software.
+
+6. Termination
+
+This license terminates automatically if you materially violate its terms. Upon termination, you must stop using and distributing any copies for which your permission has terminated, subject to rights that applicable law does not permit to be waived.
+
+7. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+8. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LEVIATHAN PROJECT AND ITS CONTRIBUTORS OR RIGHTS HOLDERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, GOODWILL, OR SERVICE AVAILABILITY ARISING FROM OR RELATED TO THE SOFTWARE.
+
+9. Additional permission
+
+Any permission not expressly granted by this license requires prior written authorization from the Leviathan Project.
